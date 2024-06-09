@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "aRAMEU9rUG7xv0VVw4fnd2jtS37ss1gYSDjzrSc8WBir1/BfU6Vdg6vOeNfzdDXufDawrUa/xDEEjl0rsoGKHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\szyme\\OneDrive\\Pulpit\\ProjektPPK2-main\\ProjektSklep\\ProjektSklep.csproj",
+=======
+  "dgSpecHash": "XZbiZVKTlzAluDniCSCn9B8qMBXjR2XhWH+xeCJUhFEbteL9QU03kzOC7N2Xe7cc6t/Efaqn1d2Fh0CZ2vhqGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\szyme\\OneDrive\\Pulpit\\projekt\\ProjektSklep\\ProjektSklep.csproj",
+>>>>>>> f6d79a7c92a6a6bcc68ba11cc6d7177a5f38f83b
   "expectedPackageFiles": [
     "C:\\Users\\szyme\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\szyme\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.1\\microsoft.aspnetcore.cryptography.internal.8.0.1.nupkg.sha512",

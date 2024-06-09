@@ -135,6 +135,7 @@ C:\Users\szyme\OneDrive\Pulpit\projekt\ProjektSklep\obj\Debug\net8.0\refint\Proj
 C:\Users\szyme\OneDrive\Pulpit\projekt\ProjektSklep\obj\Debug\net8.0\ProjektSklep.pdb
 C:\Users\szyme\OneDrive\Pulpit\projekt\ProjektSklep\obj\Debug\net8.0\ProjektSklep.genruntimeconfig.cache
 C:\Users\szyme\OneDrive\Pulpit\projekt\ProjektSklep\obj\Debug\net8.0\ref\ProjektSklep.dll
+<<<<<<< HEAD
 C:\Users\szyme\OneDrive\Pulpit\ProjektPPK2-main\ProjektSklep\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\szyme\OneDrive\Pulpit\ProjektPPK2-main\ProjektSklep\bin\Debug\net8.0\appsettings.json
 C:\Users\szyme\OneDrive\Pulpit\ProjektPPK2-main\ProjektSklep\bin\Debug\net8.0\ProjektSklep.staticwebassets.runtime.json
@@ -272,3 +273,5 @@ C:\Users\szyme\OneDrive\Pulpit\ProjektPPK2-main\ProjektSklep\obj\Debug\net8.0\re
 C:\Users\szyme\OneDrive\Pulpit\ProjektPPK2-main\ProjektSklep\obj\Debug\net8.0\ProjektSklep.pdb
 C:\Users\szyme\OneDrive\Pulpit\ProjektPPK2-main\ProjektSklep\obj\Debug\net8.0\ProjektSklep.genruntimeconfig.cache
 C:\Users\szyme\OneDrive\Pulpit\ProjektPPK2-main\ProjektSklep\obj\Debug\net8.0\ref\ProjektSklep.dll
+=======
+>>>>>>> f6d79a7c92a6a6bcc68ba11cc6d7177a5f38f83b
